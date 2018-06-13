@@ -13,10 +13,11 @@
 	.multi-level-nav ul {
 		display: flex;
 		flex-wrap: wrap;
-		justify-content: flex-start;
+		justify-content: space-between;
 	}
 
 	.multi-level-nav li {
+		flex: 1 0 auto;
 		position: relative;
 	}
 
