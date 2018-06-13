@@ -36,7 +36,7 @@
 	}
 
 	.multi-level-nav ul .toggled-on {
-		display: block;
+		display: flex;
 	}
 
 	.dropdown-toggle {
