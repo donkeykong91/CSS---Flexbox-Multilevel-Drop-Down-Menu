@@ -32,7 +32,7 @@
 	}
 
 	.multi-level-nav ul ul li {
-
+		flex: 1 1 auto;
 	}
 
 	.multi-level-nav ul .toggled-on {
